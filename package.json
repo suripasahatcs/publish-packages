@@ -12,4 +12,7 @@
   },
   "author": "suripa saha",
   "license": "ISC"
+  "publishConfig": {
+   "@suripasahatcs:registry": "https://npm.pkg.github.com"
+ }
 }
