@@ -1,5 +1,8 @@
 {
   "name": "publish-packages",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "version": "1.0.0",
   "description": "This is the first npm package",
   "main": "index.js",
