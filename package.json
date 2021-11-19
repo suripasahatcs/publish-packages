@@ -1,5 +1,5 @@
 {
-  "name": "@suripasahatcs/publish-packages",
+  "name": "publish-packages",
   "version": "1.0.0",
   "description": "This is the first npm package",
   "main": "index.js",
@@ -8,11 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/suripasahatcs/publish-packages.git"
+    "url": "https://github.com/suripasahatcs/publish-packages.git"
   },
   "author": "suripa saha",
-  "license": "ISC",
-  "publishConfig": {
-   "@suripasahatcs:registry": "https://npm.pkg.github.com"
- }
+  "license": "ISC"
 }
