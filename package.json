@@ -11,7 +11,7 @@
     "url": "https://github.com/suripasahatcs/publish-packages.git"
   },
   "author": "suripa saha",
-  "license": "ISC"
+  "license": "ISC",
   "publishConfig": {
    "@suripasahatcs:registry": "https://npm.pkg.github.com"
  }
