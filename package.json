@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suripasahatcs/publish-packages.git"
+    "url": "git://github.com/suripasahatcs/publish-packages.git"
   },
   "author": "suripa saha",
   "license": "ISC",
