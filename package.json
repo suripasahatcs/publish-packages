@@ -1,8 +1,5 @@
 {
   "name": "publish-packages",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "version": "1.0.0",
   "description": "This is the first npm package",
   "main": "index.js",
@@ -14,5 +11,8 @@
     "url": "https://github.com/suripasahatcs/publish-packages.git"
   },
   "author": "suripa saha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.6.0"
+  }
 }
