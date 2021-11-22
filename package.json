@@ -1,8 +1,5 @@
 {
   "name": "publish-packages-test",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "version": "1.0.5",
   "description": "This is the first npm package",
   "main": "index.js",
