@@ -1,6 +1,6 @@
 {
-  "name": "publish-packages-test",
-  "version": "1.0.6",
+  "name": "publish-packages-test-sample",
+  "version": "1.0.0",
   "description": "This is the first npm package",
   "main": "index.js",
   "scripts": {
