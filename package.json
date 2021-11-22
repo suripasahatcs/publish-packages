@@ -1,5 +1,5 @@
 {
-  "name": "publish-packages-test-sample",
+  "name": "@suripasaha/publish-packages-test-sample",
   "version": "1.0.0",
   "description": "This is the first npm package",
   "main": "index.js",
@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^1.6.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
